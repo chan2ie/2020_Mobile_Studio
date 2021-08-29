@@ -1,4 +1,4 @@
-# 2020_Mobile_Studio
+# 2020 Mobile Studio
 This repository contains mobile application UI/UX Design portfolio from 2020 fall Mobile Studio class.
 
 ## Project Description
